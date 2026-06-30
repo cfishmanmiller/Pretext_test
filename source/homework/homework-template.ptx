@@ -10,11 +10,7 @@
 
   <page>
     <exercise workspace="1in">
-      <statement>
-        <p>
-          This is the first homework exercise.
-        </p>
-      </statement>
+      <webwork source="Contrib/BentleyUniversity/MathematicsOfComputerGraphics/setMoCG-Ch13/13-1-CheckingBezierContinuity.pg" />
     </exercise>
 
   </page>
