@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="sine_cosine">
+  <title>Sine and Cosine</title>
+
+  <!-- Exercises start here. -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/CCCS/Trigonometry/07.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_7_2_06.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Contrib/CCCS/PreCalculus/07.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_7_2_06.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/CCCS/PreCalculus/08.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_1_06.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Contrib/CCCS/PreCalculus/08.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_1_12.pg"/>
+  </exercise>
+  <exercise> <!--5-->
+  <webwork source="Contrib/CCCS/PreCalculus/08.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_1_18.pg"/>
+  </exercise>
+  <exercise> <!--6-->
+  <webwork source="Contrib/CCCS/PreCalculus/08.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_1_19.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Contrib/CCCS/PreCalculus/08.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_1_22.pg"/>
+  </exercise>
+  <exercise> <!--8-->
+  <webwork source="Contrib/CCCS/Trigonometry/07.4/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_7_4_74.pg"/>
+  </exercise>
+  <exercise> <!--9-->
+  <webwork source="Contrib/CCCS/Trigonometry/08.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_1_35.pg"/>
+  </exercise>
+  <exercise> <!--10-->
+  <webwork source="Contrib/CCCS/Trigonometry/08.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_1_36.pg"/>
+  </exercise>
+  <exercise> <!--11-->
+  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/GraphingSineCosine/function-graphing.pg"/>
+  </exercise>
+  <exercise> <!--12-->
+  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/GraphingSineCosine/identify-amplitude.pg"/>
+  </exercise>
+  <exercise> <!--13-->
+  <webwork source="Contrib/CUNY/CityTech/Precalculus/setTrigonometry_-_Graphing_Amplitude/matching-amplitudes.pg"/>
+  </exercise>
+  <exercise> <!--14-->
+  <webwork source="Contrib/CUNY/CityTech/Precalculus/setTrigonometry_-_Graphing_Period/matching-period.pg"/>
+  </exercise>
+  <exercise> <!--15-->
+  <webwork source="Contrib/CUNY/CityTech/Precalculus/setTrigonometry_-_Graphing_Period/short-answer-period.pg"/>
+  </exercise>
+  <exercise> <!--16-->
+  <webwork source="Contrib/CUNY/CityTech/Precalculus/setTrigonometry_-_Graphing_Phase_Shift/short-answer-phaseshift-cosine.pg"/>
+  </exercise>
+  <exercise> <!--17-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap6Sec1/Q04.pg"/>
+  </exercise>
+  <exercise> <!--18-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap6Sec1/Q32.pg"/>
+  </exercise>
+  <exercise> <!--19-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap6Sec2/Q27.pg"/>
+  </exercise>
+  <exercise> <!--20-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap6Sec5/Q24.pg"/>
+  </exercise>
+  <exercise> <!--21-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap6Sec5/Q36.pg"/>
+  </exercise>
+</worksheet>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="modeling">
+  <title>Modeling</title>
+
+  <!-- Exercises start here. -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_26.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_44.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/CUNY/CityTech/Precalculus/setIntroductiontoFunctions/DataFromTable10.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Contrib/CUNY/CityTech/Precalculus/setIntroductiontoFunctions/FunctionInContext10.pg"/>
+  </exercise>
+  <exercise> <!--5-->
+  <webwork source="Contrib/CUNY/CityTech/Precalculus/setIntroductiontoFunctions/FunctionInContext20.pg"/>
+  </exercise>
+  <exercise> <!--6-->
+  <webwork source="Contrib/CUNY/CityTech/Precalculus/setIntroductiontoFunctions/FunctionInContext30.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Contrib/Utah/Intermediate_Algebra/1.1/pr6.pg"/>
+  </exercise>
+  <exercise> <!--8-->
+  <webwork source="Contrib/Utah/Intermediate_Algebra/1.4/pr3.pg"/>
+  </exercise>
+  <exercise> <!--9-->
+  <webwork source="Contrib/Utah/Intermediate_Algebra/1.4/pr4.pg"/>
+  </exercise>
+  <exercise> <!--10-->
+  <webwork source="Contrib/Utah/Intermediate_Algebra/2.6/pr8.pg"/>
+  </exercise>
+  <exercise> <!--11-->
+  <webwork source="Library/FortLewis/Algebra/8-1-Domain-range/MCH1-8-1-28-Domain-range.pg"/>
+  </exercise>
+  <exercise> <!--12-->
+  <webwork source="Library/FortLewis/Algebra/8-3-Shifting-and-scaling/MCH1-8-3-34-Shifting-and-scaling.pg"/>
+  </exercise>
+  <exercise> <!--13-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap1Review/Q34.pg"/>
+  </exercise>
+  <exercise> <!--14-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap1Review/Q37.pg"/>
+  </exercise>
+  <exercise> <!--15-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap1Sec1/Q19.pg"/>
+  </exercise>
+  <exercise> <!--16-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap2Review/Q34.pg"/>
+  </exercise>
+  <exercise> <!--17-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap2Sec1/Q20.pg"/>
+  </exercise>
+</worksheet>

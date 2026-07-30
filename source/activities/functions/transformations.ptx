@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="transformations">
+  <title>Transformations</title>
+
+  <!-- Exercises start here. -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_5_11.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_5_6.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_5_8.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_5_56.pg"/>
+  </exercise>
+  <exercise> <!--5-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_5_59.pg"/>
+  </exercise>
+  <exercise> <!--6-->
+  <webwork source="Contrib/CCCS/PreCalculus/3.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_5_56.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Library/FortLewis/Algebra/5-3-Linear-equations/MCH1-5-3-52a-Linear-equations.pg"/>
+  </exercise>
+  <exercise> <!--8-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap5Sec4/graph-scaling-01.pg"/>
+  </exercise>
+  <exercise> <!--9-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap5Sec4/graph-scaling-21.pg"/>
+  </exercise>
+  <exercise> <!--10-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_5_64.pg"/>
+  </exercise>
+  <exercise> <!--11-->
+  <webwork source="Contrib/CCCS/PreCalculus/3.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_5_53.pg"/>
+  </exercise>
+  <exercise> <!--12-->
+  <webwork source="Library/GRPS/transformation2b.pg"/>
+  </exercise>
+  <exercise> <!--13-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap5Sec2/graph-reflection-21.pg"/>
+  </exercise>
+  <exercise> <!--14-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap5Sec2/Q06.pg"/>
+  </exercise>
+  <exercise> <!--15-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap5Sec2/Q26.pg"/>
+  </exercise>
+  <exercise> <!--16-->
+  <webwork source="Library/Rochester/setAlgebra19FunTransforms/lh2-4_10b.pg"/>
+  </exercise>
+  <exercise> <!--17-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_5_61.pg"/>
+  </exercise>
+  <exercise> <!--18-->
+  <webwork source="Contrib/RRCC/College_Algebra/MAT121/3.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_5_27.pg"/>
+  </exercise>
+  <exercise> <!--19-->
+  <webwork source="Contrib/RRCC/College_Algebra/MAT121/3.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_5_31.pg"/>
+  </exercise>
+  <exercise> <!--20-->
+  <webwork source="Library/ASU-topics/setTransformationFunctions/jj1.pg"/>
+  </exercise>
+  <exercise> <!--21-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_5_24.pg"/>
+  </exercise>
+  <exercise> <!--22-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_5_27.pg"/>
+  </exercise>
+
+</worksheet>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="inverse_trig_functions">
+  <title>Inverse Trig Functions</title>
+
+  <!-- Exercises start here. -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/CCCS/PreCalculus/08.3/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_3_12.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Contrib/CCCS/PreCalculus/08.3/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_3_53.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/CCCS/PreCalculus/08.3/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_3_54.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Library/AlfredUniv/anton8e/chapter1/1.5/prob7.pg"/>
+  </exercise>
+  <exercise> <!--5-->
+  <webwork source="Library/AlfredUniv/anton8e/chapter1/1.5/prob9.pg"/>
+  </exercise>
+  <!-- <exercise> 6
+  <webwork source="Library/ASU-topics/setTrigInverse/p12.pg"/>
+  </exercise>
+  <exercise> 7
+  <webwork source="Library/ASU-topics/setTrigInverse/srw7_4_1.pg"/>
+  </exercise> 
+  ^ statement tag error
+  -->
+  <exercise> <!--6-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap6Sec7/Q58.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Library/UCSB/Stewart5_1_6/Stewart5_1_6_68.pg"/>
+  </exercise>
+  <exercise> <!--8-->
+  <webwork source="Library/UCSB/Stewart5_1_6/Stewart5_1_6_75.pg"/>
+  </exercise>
+  <!-- <exercise> 11 - statement tag error
+  <webwork source="Library/Utah/Trigonometry/set7_Trigonometry/graphs/graphs.pg"/>
+  </exercise> -->
+  <exercise> <!--9-->
+  <webwork source="Library/Wiley/setAnton_Section_0.4/Question39.pg"/>
+  </exercise>
+  <exercise> <!--10-->
+  <webwork source="Library/NAU/setTrigInverse/InverseFn1.pg"/>
+  </exercise>
+  <exercise> <!--11-->
+  <webwork source="Library/NAU/setTrigInverse/InverseFn2.pg"/>
+  </exercise>
+  <exercise> <!--12-->
+  <webwork source="Library/Rochester/setTrig06Inverses/srw7_4_15.pg"/>
+  </exercise>
+</worksheet>

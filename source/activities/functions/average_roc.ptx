@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="average_roc">
+  <title>Average Rate of Change</title>
+
+  <!-- Exercises start here. -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_16.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_7a.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_7b.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Contrib/CCCS/PreCalculus/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_11.pg"/>
+  </exercise>
+  <exercise> <!--5-->
+  <webwork source="Contrib/CCCS/PreCalculus/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_26.pg"/>
+  </exercise>
+  <exercise> <!--6-->
+  <webwork source="Contrib/CCCS/PreCalculus/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_44.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Contrib/CCCS/PreCalculus/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_45.pg"/>
+  </exercise>
+  <exercise> <!--8-->
+  <webwork source="Contrib/CCCS/PreCalculus/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_7b.pg"/>
+  </exercise>
+  <exercise> <!--9-->
+  <webwork source="Contrib/CCCS/PreCalculus/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_9.pg"/>
+  </exercise>
+  <exercise> <!--10-->
+  <webwork source="Contrib/RRCC/College_Algebra/MAT121/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_sup1.pg"/>
+  </exercise>
+  <exercise> <!--11-->
+  <webwork source="Contrib/RRCC/College_Algebra/MAT121/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_sup2.pg"/>
+  </exercise>
+  <exercise> <!--12-->
+  <webwork source="Contrib/RRCC/College_Algebra/MAT121/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_sup3.pg"/>
+  </exercise>
+  <exercise> <!--13-->
+  <webwork source="Contrib/RRCC/College_Algebra/MAT121/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_sup4.pg"/>
+  </exercise>
+  <exercise> <!--14-->
+  <webwork source="Contrib/RRCC/College_Algebra/MAT121/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_sup5.pg"/>
+  </exercise>
+  <exercise> <!--15-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap1Sec2/Q16.pg"/>
+  </exercise>
+  <exercise> <!--16-->
+  <webwork source="Contrib/RRCC/College_Algebra/MAT121/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_sup6.pg"/>
+  </exercise>
+  <exercise> <!--17-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap1Sec2/Q18.pg"/>
+  </exercise>
+  <exercise> <!--18-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap2Sec5/Q10.pg"/>
+  </exercise>
+  <exercise> <!--19-->
+  <webwork source="Library/Michigan/precalc/4e/Chap1Sec2/Q15.pg"/>
+  </exercise>
+  <exercise> <!--20-->
+  <webwork source="Library/Mizzou/Algebra/functions_difference_quotient/avg_rate_of_change_01.pg"/>
+  </exercise>
+  <exercise> <!--21-->
+  <webwork source="Library/Mizzou/Algebra/functions_difference_quotient/avg_rate_of_change_02.pg"/>
+  </exercise>
+  <exercise> <!--22-->
+  <webwork source="Library/Mizzou/College_Algebra/Functions_Difference_Quotient/cubic.pg"/>
+  </exercise>
+  <exercise> <!--23-->
+  <webwork source="Library/Mizzou/College_Algebra/Functions_Difference_Quotient/Fraction.pg"/>
+  </exercise>
+  <exercise> <!--24-->
+  <webwork source="Library/Wiley/setAnton_Section_0.2/Question52.pg"/>
+  </exercise>
+</worksheet>

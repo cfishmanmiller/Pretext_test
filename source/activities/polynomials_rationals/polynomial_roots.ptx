@@ -1,39 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="functions">
-  <title>Functions</title>
-
-  <p>
-    Functions are the mathematical way to represent relationships between
-    quantities. A function takes in an <term>input</term> from its
-    <term>domain</term> and provides an <term>output</term> from its
-    <term>codomain</term>, or more specifically its <term>range</term>,
-    the collection of its outputs.
-  </p>
-
-  <paragraphs>
-    <title>Topics</title>
-    <p>
-      <ul>
-        <li>Functions: definition, domain &amp; range, composition, arithmetic</li>
-        <li>Graphing: drawing graphs from functions, identifying functions from graphs</li>
-        <li>Transformations of functions and graphs</li>
-        <li>Inverting functions</li>
-        <li>Setting up and evaluating piecewise functions</li>
-        <li>Modeling relationships with functions</li>
-        <li>Finding average rate of change of functions</li>
-      </ul>
-    </p>
-  </paragraphs>
-
-  <paragraphs>
-    <title>Resources</title>
-    <p>
-      The primary resource for functions is the first chapter of
-      <url href="https://activecalculus.org/prelude/C-changing.html">Active Prelude to Calculus</url>.
-    </p>
-  </paragraphs>
+<worksheet xml:id="polynomial_roots">
+  <title>Polynomial Roots</title>
 
   <!-- Exercises start here. -->
   <exercise> <!--1-->
@@ -102,10 +71,6 @@
   <exercise> <!--22-->
   <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_5.pg"/>
   </exercise>
-  <!-- <exercise> 23 - not working? PTX:ERROR: WeBWorK problem Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_59.pg  with seed 23 is either empty or failed to compile
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_59.pg
-"/>
-  </exercise> -->
   <exercise> <!--23-->
   <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_61.pg"/>
   </exercise>

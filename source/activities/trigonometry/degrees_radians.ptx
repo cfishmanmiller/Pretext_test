@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="degrees_radians">
+  <title>Degrees and Radians</title>
+
+  <!-- Exercises start here. -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/CCCS/PreCalculus/07.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_7_1_33.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Contrib/CCCS/PreCalculus/07.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_7_1_35.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/AngleMeasure-Radians/convert-degrees2rads-med.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/AngleMeasure-Radians/convert-rads2degrees-med.pg"/>
+  </exercise>
+  <exercise> <!--5-->
+  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/AngleMeasure-Radians/convert-rads2degrees-nice.pg"/>
+  </exercise>
+  <exercise> <!--6-->
+  <webwork source="Contrib/METU-NCC/MAT100/23a_Degree-radian.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Contrib/METU-NCC/MAT100/23b_Radian-degree.pg"/>
+  </exercise>
+  <exercise> <!--8-->
+  <webwork source="Library/Rochester/setTrig02FunctionsUnitCircle/p10.pg"/>
+  </exercise>
+  <exercise> <!--9-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap6Review/Q04.pg"/>
+  </exercise>
+  <exercise> <!--10-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap6Review/Q08.pg"/>
+  </exercise>
+  <exercise> <!--11-->
+  <webwork source="Library/NAU/setTrigAngles/QuadrantDegrees.pg"/>
+  </exercise>
+  <exercise> <!--12-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap6Sec2/Q01.pg"/>
+  </exercise>
+  <exercise> <!--13-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap6Sec3/Q40.pg"/>
+  </exercise>
+  <!-- <exercise> 14 - "no statement tag" error
+  <webwork source="Library/Utah/Trigonometry/set4_Trigonometry/s4p11.pg"/>
+  </exercise> -->
+</worksheet>

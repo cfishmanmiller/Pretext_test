@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="tan_etc">
+  <title>Tangent, Cotangent, Secant, and Cosecant</title>
+
+  <!-- Exercises start here. -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/CCCS/PreCalculus/07.4_Other_Trigonometric_Functions/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_7_4_46.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Contrib/CCCS/PreCalculus/08.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_2_10.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/CCCS/PreCalculus/08.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_2_36.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Library/Rochester/setTrig05Graphs/p6.pg"/>
+  </exercise>
+  <exercise> <!--5-->
+  <webwork source="Contrib/CCCS/PreCalculus/07.4_Other_Trigonometric_Functions/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_7_4_47.pg"/>
+  </exercise>
+  <exercise> <!--6-->
+  <webwork source="Contrib/CCCS/PreCalculus/08.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_2_06.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Contrib/CCCS/PreCalculus/08.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_2_07.pg"/>
+  </exercise>
+  <exercise> <!--8-->
+  <webwork source="Contrib/CCCS/PreCalculus/08.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_2_12.pg"/>
+  </exercise>
+  <exercise> <!--9-->
+  <webwork source="Contrib/CCCS/PreCalculus/08.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_2_14.pg"/>
+  </exercise>
+  <exercise> <!--10-->
+  <webwork source="Library/NAU/setTrigIdentity/Even.pg"/>
+  </exercise>
+  <!-- <exercise> 11 - image width too big error
+  <webwork source="Contrib/CCCS/PreCalculus/08.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_2_40.pg"/>
+  </exercise> -->
+  <exercise> <!--11-->
+  <webwork source="Contrib/CCCS/PreCalculus/08.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_2_42.pg"/>
+  </exercise>
+  <exercise> <!--12-->
+  <webwork source="Contrib/CCCS/Trigonometry/08.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_2_07.pg"/>
+  </exercise>
+  <exercise> <!--13: formatting issues with this one-->
+  <webwork source="Contrib/CCCS/PreCalculus/08.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_2_39.pg"/>
+  </exercise>
+  <exercise> <!--14-->
+  <webwork source="Library/NAU/setTrigOtherFunctions/OtherPer2.pg"/>
+  </exercise>
+</worksheet>

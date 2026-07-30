@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="logarithmic_functions">
+  <title>Logarithmic Functions</title>
+
+  <!-- Exercises start here. -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/6.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_4_13.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/6.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_4_7.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/RRCC/College_Algebra/MAT121/6.4/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_4_15.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap4Sec3/Q36.pg"/>
+  </exercise>
+  <exercise> <!--5-->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap4Sec4/Q22.pg"/>
+  </exercise>
+  <exercise> <!--6-->
+  <webwork source="Library/maCalcDB/setAlgebra31LogExpApplications/jj1.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Library/Wiley/setAnton_Section_0.5/Question23.pg"/>
+  </exercise>
+</worksheet>

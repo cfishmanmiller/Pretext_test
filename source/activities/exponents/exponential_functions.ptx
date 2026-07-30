@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="exponential_functions">
+  <title>Exponential Functions</title>
+
+  <!-- Exercises start here. -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_18.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_44.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_48.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/6.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_2_44.pg"/>
+  </exercise>
+  <exercise> <!--5-->
+  <webwork source="Contrib/CCCS/PreCalculus/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_16.pg"/>
+  </exercise>
+  <exercise> <!--6-->
+  <webwork source="Contrib/CCCS/PreCalculus/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_15.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Contrib/CCCS/PreCalculus/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_17.pg"/>
+  </exercise>
+  <exercise> <!--8-->
+  <webwork source="Contrib/CCCS/PreCalculus/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_23.pg"/>
+  </exercise>
+  <exercise> <!--9-->
+  <webwork source="Contrib/CCCS/PreCalculus/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_24.pg"/>
+  </exercise>
+  <exercise> <!--10-->
+  <webwork source="Contrib/CCCS/PreCalculus/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_4.pg"/>
+  </exercise>
+  <exercise> <!--11-->
+  <webwork source="Contrib/CCCS/PreCalculus/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_9.pg"/>
+  </exercise>
+  <exercise> <!--12-->
+  <webwork source="Contrib/CCCS/PreCalculus/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_9_sup1.pg"/>
+  </exercise>
+  <exercise> <!--13-->
+  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/ExponentialFunctions/evaluate-exponential1.pg"/>
+  </exercise>
+  <exercise> <!--14-->
+  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/ExponentialFunctions/evaluate-frac-exponential.pg"/>
+  </exercise>
+  <exercise> <!--15-->
+  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/ExponentialFunctions/evaluate-neg-exponential.pg"/>
+  </exercise>
+  <exercise> <!--16-->
+  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/ExponentialFunctions/solve-exponential-medium.pg"/>
+  </exercise>
+  <exercise> <!--17-->
+  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/ExponentialFunctions/solve-exponential.pg"/>
+  </exercise>
+  <exercise> <!--18-->
+  <webwork source="Contrib/Fitchburg/Algebra/exponentials-logs/exp-eval.pg"/>
+  </exercise>
+  <exercise> <!--19-->
+  <webwork source="Contrib/Piedmont/OnlineMATH1113/Test3/3.pg"/>
+  </exercise>
+  <exercise> <!--20-->
+  <webwork source="Contrib/RRCC/College_Algebra/MAT121/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_14.pg"/>
+  </exercise>
+  <exercise> <!--21-->
+  <webwork source="Contrib/RRCC/College_Algebra/MAT121/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_18.pg"/>
+  </exercise>
+  <exercise> <!--22-->
+  <webwork source="Contrib/RRCC/College_Algebra/MAT121/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_15.pg"/>
+  </exercise>
+  <exercise> <!--23-->
+  <webwork source="Contrib/RRCC/College_Algebra/MAT121/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_16.pg"/>
+  </exercise>
+  <exercise> <!--24-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/Prerequisite_Review/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_1_2_26.pg"/>
+  </exercise>
+  <exercise> <!--25-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/Prerequisite_Review/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_1_2_27.pg"/>
+  </exercise>
+  <exercise> <!--26-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/Prerequisite_Review/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_1_2_30.pg"/>
+  </exercise>
+  <exercise> <!--27-->
+  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/IntegerExponents/divide-medium.pg"/>
+  </exercise>
+</worksheet>

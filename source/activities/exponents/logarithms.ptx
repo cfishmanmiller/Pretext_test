@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="logarithms">
+  <title>Logarithms</title>
+
+  <!-- Exercises start here. -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/6.3/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_3_41.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/6.3/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_3_53.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/6.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_3_43.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/6.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_3_51.pg"/>
+  </exercise>
+  <exercise> <!--5-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/6.5/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_5_05.pg"/>
+  </exercise>
+  <exercise> <!--6-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/6.5/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_5_12.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/LogarithmicProperties/fundamental-properties-exponents.pg"/>
+  </exercise>
+  <exercise> <!--8-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/6.5/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_5_19.pg"/>
+  </exercise>
+  <exercise> <!--9-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/6.5/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_5_21.pg"/>
+  </exercise>
+  <exercise> <!--10-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/6.5/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_5_25.pg"/>
+  </exercise>
+  <exercise> <!--11-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/6.5/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_5_27.pg"/>
+  </exercise>
+  <exercise> <!--12-->
+  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/LogarithmicProperties/fundamental-properties.pg"/>
+  </exercise>
+  <exercise> <!--13-->
+  <webwork source="Contrib/Piedmont/OnlineMATH1113/Test3/6.pg"/>
+  </exercise>
+  <exercise> <!--14-->
+  <webwork source="Contrib/RRCC/College_Algebra/MAT121/6.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_5_16.pg"/>
+  </exercise>
+  <exercise> <!--15-->
+  <webwork source="Library/maCalcDB/setAlgebra29LogFunctions/simplifying_expressions.pg"/>
+  </exercise>
+  <!-- <exercise> 16
+  <webwork source="Library/Utah/College_Algebra/set9_Exponential_and_Logarithmic_Functions/1050s9p21.pg"/>
+  </exercise>
+  <exercise> 17
+  <webwork source="Library/UVA-Stew5e/setUVA-Stew5e-C01S06-LogsInvs/1-6-37.pg"/>
+  </exercise> 
+  ^ These both throw errors, "WeBWorK problem __ does not have a statement tag"
+  -->
+</worksheet>

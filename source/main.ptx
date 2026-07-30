@@ -6,7 +6,7 @@
   <xi:include href="./docinfo.ptx" />
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
   <book>
-    <title>DISCRETE STRUCTURES</title>
+    <title>Math Trailhead</title>
 
     <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
@@ -19,27 +19,185 @@
       <!-- Other documents could go here, like a schedule, project description, etc. -->
     </chapter>
 
-    <chapter xml:id="course-notes">
-      <title>Course Notes</title>
-      <xi:include href="./notes/appendix.ptx"/>
-      <xi:include href="./notes/week02.ptx"/>
-      <!-- etc. -->
-    </chapter>
-
-
-    <chapter xml:id="activities">
-      <title>In-Class Activities</title>
-
+    <chapter xml:id="functions">
+      <title>Functions</title>
+      
       <introduction>
         <p>
-          These are copies of the in-class activities distributed during the semester.
+          Functions are the mathematical way to represent relationships between
+          quantities. A function takes in an <term>input</term> from its
+          <term>domain</term> and provides an <term>output</term> from its
+          <term>codomain</term>, or more specifically its <term>range</term>,
+          the collection of its outputs.
+        </p>
+
+        <p>Topics</p>
+        <p>
+          <ul>
+            <li>Functions: definition, domain &amp; range, composition, arithmetic</li>
+            <li>Graphing: drawing graphs from functions, identifying functions from graphs</li>
+            <li>Transformations of functions and graphs</li>
+            <li>Inverting functions</li>
+            <li>Setting up and evaluating piecewise functions</li>
+            <li>Modeling relationships with functions</li>
+            <li>Finding average rate of change of functions</li>
+          </ul>
+        </p>
+
+        <p>Resources</p>
+        <p>
+          The first chapter of
+          <url href="https://activecalculus.org/prelude/C-changing.html">Active Prelude to Calculus</url>.
         </p>
       </introduction>
 
-      <!-- Remove the example and replace with your own activities -->
-      <xi:include href="./activities/functions.ptx"/>
-
-      <!-- Add more xi:include files here to include them in the main course -->
+      <xi:include href="./activities/functions/functions.ptx"/>
+      <xi:include href="./activities/functions/graphing.ptx"/>
+      <xi:include href="./activities/functions/transformations.ptx"/>
+      <xi:include href="./activities/functions/inverse_functions.ptx"/>
+      <xi:include href="./activities/functions/piecewise_functions.ptx"/>
+      <xi:include href="./activities/functions/modeling.ptx"/>
+      <xi:include href="./activities/functions/average_roc.ptx"/>
     </chapter>
-    </book>
-  </pretext>
+
+    <chapter xml:id="exponents">
+      <title>Exponents and Logarithms</title>
+      
+      <introduction>
+        <p>
+          Exponential functions are functions in which a fixed value is raised to the power of the input variable. 
+          Logarithmic functions are the inverses of these. One important related concept is Euler's constant <term>e</term>, 
+          which has very nice properties as a base and is used in vital to exponential/logarithmic functions in calculus. 
+        </p>
+
+        <p>Topics</p>
+        <p>
+          <ul>
+            <li>Exponential Functions: Evaluating exponental expressions/functions and using exponential functions as models</li>
+            <li>Logarithm Rules: Rules for adding and scaling logarithms</li>
+            <li>Logarithmic Functions: Interpreting and modelling with logarithmic functions</li>
+          </ul>
+        </p>
+
+        <p>Resources</p>
+        <p>
+          Chapter 3 of <url href="https://activecalculus.org/prelude/C-exp.html">Active Prelude to Calculus</url>.
+        </p>
+      </introduction>
+
+      <xi:include href="./activities/exponents/exponential_functions.ptx"/>
+      <xi:include href="./activities/exponents/logarithms.ptx"/>
+      <xi:include href="./activities/exponents/logarithmic_functions.ptx"/>
+    </chapter>
+
+    <chapter xml:id="trigonometry">
+      <title>Trigonometry</title>
+      
+      <introduction>
+        <p>
+          This module covers trigonometric functions in the context of the unit circle and right triangles. 
+          Trigonometry deals with the relationship between angles and length/area/volume, which can be 
+          vital for solving geometric problems.
+        </p>
+
+        <p>Topics</p>
+        <p>
+          <ul>
+            <li>Converting between degrees and radians</li>
+            <li>Evaluating trigonometric functions</li>
+            <li>Trigonometric identities</li>
+            <li>Using trigonometry to model real-world problems </li>
+          </ul>
+        </p>
+
+        <p>Resources</p>
+        <p>
+          Chapters
+          <url href="https://activecalculus.org/prelude/C-circular.html">2</url> and
+          <url href="https://activecalculus.org/prelude/C-circular.html">4</url> of Active Prelude to Calculus.
+        </p>
+      </introduction>
+
+      <xi:include href="./activities/trigonometry/degrees_radians.ptx"/>
+      <xi:include href="./activities/trigonometry/sine_cosine.ptx"/>
+      <xi:include href="./activities/trigonometry/tan_etc.ptx"/>
+      <xi:include href="./activities/trigonometry/right_triangles.ptx"/>
+      <xi:include href="./activities/trigonometry/inverse_trig_functions.ptx"/>
+      <xi:include href="./activities/trigonometry/evaluating_trig_functions.ptx"/>
+      <xi:include href="./activities/trigonometry/identities.ptx"/>
+    </chapter>
+
+    <chapter xml:id="polynomials_rationals">
+      <title>Polynomials and Rational Functions</title>
+      
+      <introduction>
+        <p>
+          Polynomials are expressions involving <term>integer powers</term> of one or more variables. 
+          Polynomials are commonly used to model <term>volumes</term> and <term>surface areas</term>.
+        </p>
+
+        <p>Topics</p>
+        <p>
+          <ul>
+            <li>Polynomial functions</li>
+            <li>Factoring polynomial expressions</li>
+            <li>Polynomial roots: solving, identifying multiplicity</li>
+            <li>Polynomial long division</li>
+            <li>Modeling with polynomials</li>
+          </ul>
+        </p>
+        
+        <p>Resources</p>
+        <p>
+          Chapter 5, sections 2 and 3 of <url href="https://activecalculus.org/prelude/C-poly.html">Active Prelude to Calculus</url>.
+        </p>
+      </introduction>
+
+      <!-- <xi:include href="./activities/polynomials_rationals/polynomial_functions.ptx"/>
+      <xi:include href="./activities/polynomials_rationals/factoring.ptx"/>
+      <xi:include href="./activities/polynomials_rationals/polynomial_roots.ptx"/>
+      <xi:include href="./activities/polynomials_rationals/long_division.ptx"/>
+      <xi:include href="./activities/polynomials_rationals/modeling_polynomials.ptx"/>
+      <xi:include href="./activities/polynomials_rationals/rational_functions.ptx"/> -->
+
+      <section>
+        <title>remove this</title>
+        <p>remove this after including activities (this is here so the chapter tag isn't incomplete)</p>
+      </section>
+    </chapter>
+    
+    <chapter xml:id="algebra">
+      <title>Algebra</title>
+      
+      <introduction>
+        <p>
+          This section is about solving equations and manipulating <term>algebraic expressions</term>, or expressions involving one or more <term>variables</term>.
+        </p>
+
+        <p>Topics</p>
+        <p>
+          <ul>
+            <li>Linear equations: interpretation, graphing, solving, intercepts</li>
+            <li>Fractions: simplifying, adding, multiplying, exponentiation, solving simple equations</li>
+            <li>Systems of equations: substitution, elimination, interpretation</li>
+          </ul>
+        </p>
+        
+
+        <p>Resources</p>
+        <p>
+          <url href="https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra">Khan Academy Algebra 1</url>.
+        </p>
+      </introduction>
+
+      <!-- <xi:include href="./activities/algebra/lines_in_plane.ptx"/>
+      <xi:include href="./activities/algebra/fractions.ptx"/>
+      <xi:include href="./activities/algebra/systems_of_equations.ptx"/> -->
+
+      <section>
+        <title>remove this</title>
+        <p>remove this after including activities (this is here so the chapter tag isn't incomplete)</p>
+      </section>
+    </chapter>
+  </book>
+</pretext>
