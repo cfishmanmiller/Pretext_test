@@ -6,88 +6,54 @@
 
   <!-- Exercises start here. -->
   <exercise> <!--1-->
-  <webwork source="Contrib/CCCS/AlgebraicLiteracy/IA_3.6/OpenStax_IA_3.6_341.pg"/>
+  <webwork source="Contrib/CCCS/CollegeAlgebra/5.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_2_25.pg"/>
   </exercise>
   <exercise> <!--2-->
-  <webwork source="Contrib/CCCS/AlgebraicLiteracy/IA_3.6/OpenStax_IA_3.6_373.pg"/>
+  <webwork source="Contrib/CCCS/CollegeAlgebra/5.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_2_28.pg"/>
   </exercise>
   <exercise> <!--3-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_2_10.pg"/>
+  <webwork source="Contrib/CCCS/CollegeAlgebra/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_11.pg"/>
   </exercise>
   <exercise> <!--4-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_2_15.pg"/>
+  <webwork source="Contrib/CCCS/CollegeAlgebra/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_16.pg"/>
   </exercise>
   <exercise> <!--5-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_2_17.pg"/>
+  <webwork source="Contrib/CCCS/CollegeAlgebra/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_19.pg"/>
   </exercise>
   <exercise> <!--6-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_2_27.pg"/>
+  <webwork source="Contrib/CCCS/CollegeAlgebra/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_23.pg"/>
   </exercise>
   <exercise> <!--7-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_2_31.pg"/>
+  <webwork source="Contrib/CCCS/CollegeAlgebra/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_30.pg"/>
   </exercise>
   <exercise> <!--8-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_2_32.pg"/>
+  <webwork source="Contrib/CCCS/CollegeAlgebra/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_32.pg"/>
   </exercise>
   <exercise> <!--9-->
-  <webwork source="Contrib/CCCS/AlgebraicLiteracy/IA_3.5/OpenStax_IA_3.5_330.pg"/>
+  <webwork source="Contrib/CCCS/CollegeAlgebra/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_37.pg"/>
   </exercise>
   <exercise> <!--10-->
-  <webwork source="Contrib/CCCS/AlgebraicLiteracy/IA_3.5/OpenStax_IA_3.5_331.pg"/>
+  <webwork source="Contrib/CCCS/CollegeAlgebra/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_60.pg"/>
   </exercise>
   <exercise> <!--11-->
-  <webwork source="Contrib/CCCS/AlgebraicLiteracy/IA_3.5/OpenStax_IA_3.5_Functions1.pg"/>
+  <webwork source="Contrib/METU-NCC/MAT100/Ch4/4.1_Find_poly_1.pg"/>
   </exercise>
   <exercise> <!--12-->
-  <webwork source="Contrib/CCCS/AlgebraicLiteracy/IA_3.5/OpenStax_IA_3.5_Functions2.pg"/>
+  <webwork source="Contrib/METU-NCC/MAT100/Ch4/4.1_Find_poly_2.pg"/>
   </exercise>
   <exercise> <!--13-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.1/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_1_27.pg"/>
+  <webwork source="Contrib/RRCC/College_Algebra/MAT121/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_30.pg"/>
   </exercise>
   <exercise> <!--14-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.1/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_1_29.pg"/>
+  <webwork source="Contrib/RRCC/College_Algebra/MAT121/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_32.pg"/>
   </exercise>
   <exercise> <!--15-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.1/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_1_31.pg"/>
+  <webwork source="Library/ASU-topics/setPolynomialFunctions/rich4.pg"/>
   </exercise>
   <exercise> <!--16-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.1/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_1_35.pg"/>
+  <webwork source="Library/Mizzou/Algebra/eqns_gcf_grouping/gcf_01.pg"/>
   </exercise>
   <exercise> <!--17-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_A.pg"/>
+  <webwork source="Library/UMN/algebraKaufmannSchwitters/ks_9_4_prob06.pg"/>
   </exercise>
-  <exercise> <!--18-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/Openstax_AlgTrig_AT-1-001-AS_3_4_43.pg"/>
-  </exercise>
-  <exercise> <!--19-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/Openstax_AlgTrig_AT-1-001-AS_3_4_45.pg"/>
-  </exercise>
-  <exercise> <!--20-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_11.pg"/>
-  </exercise>
-  <exercise> <!--21-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_13.pg"/>
-  </exercise>
-  <exercise> <!--22-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_5.pg"/>
-  </exercise>
-  <exercise> <!--23-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_61.pg"/>
-  </exercise>
-  <exercise> <!--24-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_2_43.pg"/>
-  </exercise>
-  <exercise> <!--25-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_2_49.pg"/>
-  </exercise>
-  <exercise> <!--26-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_2_SUP1.pg"/>
-  </exercise>
-  <exercise> <!--27-->
-  <webwork source="Contrib/CCCS/PreCalculus/3.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_2_39.pg"/>
-  </exercise>
-  <exercise> <!--28-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_18.pg"/>
-  </exercise>
-
 </worksheet>

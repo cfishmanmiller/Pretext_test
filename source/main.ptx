@@ -153,17 +153,12 @@
         </p>
       </introduction>
 
-      <!-- <xi:include href="./activities/polynomials_rationals/polynomial_functions.ptx"/>
+      <xi:include href="./activities/polynomials_rationals/polynomial_functions.ptx"/>
       <xi:include href="./activities/polynomials_rationals/factoring.ptx"/>
       <xi:include href="./activities/polynomials_rationals/polynomial_roots.ptx"/>
       <xi:include href="./activities/polynomials_rationals/long_division.ptx"/>
       <xi:include href="./activities/polynomials_rationals/modeling_polynomials.ptx"/>
-      <xi:include href="./activities/polynomials_rationals/rational_functions.ptx"/> -->
-
-      <section>
-        <title>remove this</title>
-        <p>remove this after including activities (this is here so the chapter tag isn't incomplete)</p>
-      </section>
+      <xi:include href="./activities/polynomials_rationals/rational_functions.ptx"/>
     </chapter>
     
     <chapter xml:id="algebra">
@@ -190,14 +185,9 @@
         </p>
       </introduction>
 
-      <!-- <xi:include href="./activities/algebra/lines_in_plane.ptx"/>
+      <xi:include href="./activities/algebra/lines_in_plane.ptx"/>
       <xi:include href="./activities/algebra/fractions.ptx"/>
-      <xi:include href="./activities/algebra/systems_of_equations.ptx"/> -->
-
-      <section>
-        <title>remove this</title>
-        <p>remove this after including activities (this is here so the chapter tag isn't incomplete)</p>
-      </section>
+      <xi:include href="./activities/algebra/systems_of_equations.ptx"/>
     </chapter>
   </book>
 </pretext>
